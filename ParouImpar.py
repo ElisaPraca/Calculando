@@ -1,7 +1,3 @@
-'''
-Come descobrir se o numero é par ou impar 
-'''
-
 print(30 * "_")
 numero = int(input("Insira um numero para saber se é Ímpar ou Par:"))
 if (numero % 2) == 0:
