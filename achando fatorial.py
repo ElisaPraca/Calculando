@@ -1,6 +1,3 @@
-'''
-como achar um fatorial
-'''
 print(30 * "-")
 numero = int(input("Insira um numero: "))
 fatorial = 1
