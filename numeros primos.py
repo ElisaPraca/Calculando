@@ -1,7 +1,3 @@
-'''
-Descobrindo numeros primos 
-7/1 %  = 0
-'''
 print(30 * "_") 
 numero = int(input("Insira um numero para descobrir se é um numero primo:"))
 
